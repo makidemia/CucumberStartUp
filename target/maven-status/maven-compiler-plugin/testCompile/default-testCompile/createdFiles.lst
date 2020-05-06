@@ -1,0 +1,5 @@
+studentapp/testbase/TestBase.class
+studentapp/cucumber/steps/StudentAppSteps.class
+studentapp/cucumber/serenity/StudentImpl.class
+studentapp/cucumber/StudentRunnerTest.class
+studentapp/cucumber/steps/NewScenarioSteps.class
